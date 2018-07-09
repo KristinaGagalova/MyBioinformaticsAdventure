@@ -1,21 +1,14 @@
 ---
 layout: page
-title: About Emerald
+title: About myself
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+My name is Kristina and I am a PhD student at the UBC in Vancouver. 
+Passionate about genomics and Bioinformatics, my (MSc)2 is spent between wet and dry lab.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+I am interested in entrepreneurship, networking and problems solving.   
+My personal interests are philosophy, arts, music, video and photography.
 
-![Emerald](img/Emerald01.png "Emerald")
+For further details on my research projects, please visit my [Lab Page](http://www.birollab.ca/member/kgagalova).
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+![Kristina](img/PresentationImageKG.jpg)
