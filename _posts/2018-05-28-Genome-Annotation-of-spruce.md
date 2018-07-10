@@ -15,6 +15,7 @@
 I have recently started the genome annotation of White Spruce - strain WS77111. For those who does not know: conifers are defined as Gymnosperms and have diverged from the Angiosperm plants in an independent clade.
 This is a picture that shows the plants evolution, on the final branches you can see the distinction between angiosperms and gymnosperms, both seed plants, which occurred 290 million years ago.
 ![PlantsEvolution](https://langdalelab.files.wordpress.com/2015/07/untitled.jpg)
+*Langdale Lab - Department of plant sciences*  
 
 The vast majority of the genome assembly and annotations that we have today is made by angiosperms species. At the current moment we only have draft reference genomes of several spices which is a great resource to start exploring the spruce genomics. There are also several genome annotations available on NCBI but those are bound to the current state of the assembly. If it's fragmented and incomplete and also its annotation is partial. Being a pioneer is however something exciting! 
 
@@ -26,11 +27,11 @@ During the first pass of Maker I tried to run with the default mode - evidence +
 I will run a second step of Maker and use the best genes from my first step to improve the final annotation.
 
 If you are also a student/staff or new to genome annotation and you need to annotate a highly divergent genome, I have some advises which I have learnt during my self-studying time in the past months:
-1) Know your genome in terms of expected repeats, gene structure and quality. This is fundamental to succeed
-2) Be patient and well-prepared. Maker2 is a pipeline that is supposed to run very easily but do not let Maker2 to do everything for you! Check, check, check. Most of the steps can be customized and adapted to the features of your genome
-3) Compile a list of high quality genes which you have validated with ifferent methods or other tools. The top-notch can be used to train models
-4) Compare your annotation to others performed by Maker2 to see how good is your performance.
-5) Put some love and passion in this job even if it looks like very technical. Remember that someone will use your annotated genes and that your work is IMPORANT. 
+- Know your genome in terms of expected repeats, gene structure and quality. This is fundamental to succeed
+- Be patient and well-prepared. Maker2 is a pipeline that is supposed to run very easily but do not let Maker2 to do everything for you! Check, check, check. Most of the steps can be customized and adapted to the features of your genome
+- Compile a list of high quality genes which you have validated with ifferent methods or other tools. The top-notch can be used to train models
+- Compare your annotation to others performed by Maker2 to see how good is your performance.
+- Put some love and passion in this job even if it looks like very technical. Remember that someone will use your annotated genes and that your work is IMPORANT. 
 
 Cheers,
 
