@@ -5,7 +5,7 @@
 
 ![Kristina](img/IMG_20180701_124136trees.jpg)
 
-*******
+***************
 
 I am recently working with the Augustus colossus which is one of the most important gene prediction tools. It's actually even more important in my case: Augustus, if properly optimized, is able to predict genes with very diverse features. The spruce average intron size, for example, is quite large when compared to the other plant species and Augustus nees to grasp this feature.    
 Augustus relies on a species-specific parameters which is provided by the author. Augustus comes with a ```config``` directory containing several species but the closest to spruce is *Arabidopsis thaliana* which genome is quite quite different from conifers. Given that, I decided to optimize Augustus parameters for having a better prediction during my genome annotation. I want to share the pipeline which I have followed and give some tips for the future adventurers who want to do the same.
