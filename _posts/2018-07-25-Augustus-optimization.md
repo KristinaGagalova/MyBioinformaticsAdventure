@@ -4,6 +4,7 @@
 **― Douglas R. Hofstadter, I Am a Strange Loop**
 
 ![Kristina](img/IMG_20180701_124136trees.jpg)
+
 *******
 
 I am recently working with the Augustus colossus which is one of the most important gene prediction tools. It's actually even more important in my case: Augustus, if properly optimized, is able to predict genes with very diverse features. The spruce average intron size, for example, is quite large when compared to the other plant species and Augustus nees to grasp this feature.    
