@@ -1,6 +1,6 @@
 *******
 
-*“So Zeno is most famous for his tortoise paradox. Let us imagine that you are in a race with a tortoise. The tortoise has a ten-yard head start. In the time it takes you to run that ten yards, the tortoise has moved one yard. And then in the time it takes you to make up that distance, the tortoise goes a bit farther, and so on forever. You are faster than the tortoise but you can never catch him; you can only decrease his lead.”* 
+*“So Zeno is most famous for his tortoise paradox. Let us imagine that you are in a race with a tortoise. The tortoise has a ten-yard head start. In the time it takes you to run that ten yards, the tortoise has moved one yard. And then in the time it takes you to make up that distance, the tortoise goes a bit farther, and so on forever. You are faster than the tortoise but you can never catch him; you can only decrease his lead.”*       
 **― John Green, The Fault in Our Stars**
 ![ouroboros](http://ichef.bbci.co.uk/wwfeatures/wm/live/624_351/images/live/p0/5q/2d/p05q2dlr.jpg)
 
