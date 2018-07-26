@@ -1,9 +1,3 @@
-
-
-
-
-## Structural genome annotation of White spruce
-
 *******
 
 *“So Zeno is most famous for his tortoise paradox. Let us imagine that you are in a race with a tortoise. The tortoise has a ten-yard head start. In the time it takes you to run that ten yards, the tortoise has moved one yard. And then in the time it takes you to make up that distance, the tortoise goes a bit farther, and so on forever. You are faster than the tortoise but you can never catch him; you can only decrease his lead.”* 
@@ -39,10 +33,3 @@ Genome annotation - Maker
 - [Maker-dev group](https://groups.google.com/forum/#!forum/maker-devel)
 - [Maker training resources](http://weatherby.genetics.utah.edu/MAKER/wiki/index.php/MAKER_Tutorial_for_GMOD_Online_Training_2014)
 - [More details about a two step genome annotation with Maker](https://gist.github.com/darencard/bb1001ac1532dd4225b030cf0cd61ce2)
-
-### Maker - opts  
-```
-#------Gene Prediction - default
-* est2genome=0 #infer predictions directly from the EST, 1=yes, 0=no
-* protein2genome=0 #infer predictions from protein homology, 1=yes, 0=no
-```
