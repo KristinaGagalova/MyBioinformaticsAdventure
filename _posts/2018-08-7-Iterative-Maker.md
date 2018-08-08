@@ -7,7 +7,7 @@ Seriosuly, if you haven't seen it, you should open Netflix immediately... Philos
 
 ![Мистерията на българските гласове  - soundtrack from the movie](https://www.youtube.com/watch?v=aXkdKwHckjU&list=RDMMaXkdKwHckjU&start_radio=1)
 
-![](http://lwlcdn.lwlies.com/wp-content/uploads/2017/03/encounters-at-the-end-of-the-world-penguins-1108x0-c-default.jpg)
+![Kristina](img/IterativeMaker.jpg)
 
 ***************
 
