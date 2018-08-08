@@ -3,7 +3,7 @@
 *“For me, the best description of hunger is the description of bread. A poet said that once I think. For me, the best description of freedom is what you have in front of you. You're travelling a lot.”*         
 **― Werner Herzog, Encounters at the End of the World**
 
-Seriosuly, if you haven't seen it, you should open Netflix immediately... Philosophy and peotry in science.  
+Seriosuly, if you haven't seen it, you should open Netflix immediately... 
 
 [Мистерията на българските гласове  - soundtrack from the movie](https://www.youtube.com/watch?v=aXkdKwHckjU&list=RDMMaXkdKwHckjU&start_radio=1)
 
