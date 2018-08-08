@@ -5,7 +5,7 @@
 
 Seriosuly, if you haven't seen it, you should open Netflix immediately... Philosophy and peotry in science.  
 
-![Мистерията на българските гласове  - soundtrack from the movie](https://www.youtube.com/watch?v=aXkdKwHckjU&list=RDMMaXkdKwHckjU&start_radio=1)
+[Мистерията на българските гласове  - soundtrack from the movie](https://www.youtube.com/watch?v=aXkdKwHckjU&list=RDMMaXkdKwHckjU&start_radio=1)
 
 ![Kristina](img/IterativeMaker.jpg)
 
