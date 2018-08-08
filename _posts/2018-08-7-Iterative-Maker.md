@@ -17,7 +17,7 @@ Maker can be run in an iterative way and the output from one run can be used in 
 
 Maker provides the option ```est2genome``` and ```prot2genome``` in the maker_opt.ctrl comand file which "upgrades" the pure gene evidence to a complete prediction: whenever there is a transcript or a protein that Blasts to the genome without the support of the predictors, this will be labelled as "maker_exonerate_est2genome" or "maker_exonerate_prot2genome" and annoatted as predicted gene. This approach is ment to create a draft set of genes that can be used for the creation of models in Augustus or SNAP. This is a sort of boothstrapping that allows you to perform the annotation even if you don't have a suitable gene model to start with.    
 
-Notice that this can be only used for the first steps of Maker and that the pipline needs to be run afterwards with the default parameter, setting ```est2genome``` and ```prot2genome``` as default. Iterative Maker is a very powerful approach to create and start your annotation from a closer species and guide your annotation through a progressive refinement of you gene data set.
+Notice that this can be only used for the first steps of Maker and that the pipline needs to be run afterwards with the default ```est2genome``` and ```prot2genome``` parameters. Iterative Maker is a very powerful approach to start your annotation from a closer species and guide your annotation through a progressive refinement of you gene data set.
 
 Remember that if you want to use the predicted genes for HQ models, you'll need to check them for completeness and integrity too.
 
