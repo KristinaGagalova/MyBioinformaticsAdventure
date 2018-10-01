@@ -14,4 +14,4 @@ In the spruce genome annotation I have applied both the strategies, including a 
 Cheers,
 
 ### References
-* [InterPro, EMBL-EBI](https://www.ebi.ac.uk/training/online/course/interpro-functional-and-structural-analysis-protein)
+* [InterPro, EMBL-EBI](https://www.ebi.ac.uk/training/online/course/interpro-functional-and-structural-analysis-protei)
