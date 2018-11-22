@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+* RNA-Seq in 296 phased trios provides a high resolution map of genomic imprinting - bioRxiv, 2018        
+Jadhav B., Monajemi R., **Gagalova K.K**, Ho D., Draisma H.H.M, van de Wiel M.A., Franke L., Heijmans B.T., van Meurs J., Jansen R., GoNL Consortium, BIOS Consortium, t'Hoen P., Sharp A.J., Kiełbasa S.
+
 * Skewed X-inactivation is common in the general female population - EJHGR, 2018        
 t'Hoen P., Shvetsova E., Sofronova A., Monajemi R., **Gagalova K.K.**, Draisma H., White S., Santen G., Chuva de Sousa Lopes S., Heijmans B.T., van Meurs J., Jansen R., Franke L., Kiełbasa S., Den Dunnen J.
 
