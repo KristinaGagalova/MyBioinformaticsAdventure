@@ -5,7 +5,7 @@ title: Publications
 
 
 * Induction of Interferon-Stimulated Genes and Cellular Stress Pathways by Morpholinos - bioRxiv, 2018        
-Lai J.K.H, Gagalova K., Stainier D.Y.R       
+Lai J.K.H, **Gagalova K.**, Stainier D.Y.R       
 
 * RNA-Seq in 296 phased trios provides a high resolution map of genomic imprinting - bioRxiv, 2018        
 Jadhav B., Monajemi R., **Gagalova K.K**, Ho D., Draisma H.H.M, van de Wiel M.A., Franke L., Heijmans B.T., van Meurs J., Jansen R., GoNL Consortium, BIOS Consortium, t'Hoen P., Sharp A.J., Kiełbasa S.
