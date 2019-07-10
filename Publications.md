@@ -3,12 +3,11 @@ layout: page
 title: Publications
 ---
 
+* Induction of interferon-stimulated genes and cellular stress pathways by morpholinos in zebrafish - Dev Biol., 2019       
+Lai J.K.H., **Gagalova K.K.**, Kuenne C., El-Brolosy M.A., Stainier D.Y.R.
 
-* Induction of Interferon-Stimulated Genes and Cellular Stress Pathways by Morpholinos - bioRxiv, 2018        
-Lai J.K.H, **Gagalova K.**, Stainier D.Y.R       
-
-* RNA-Seq in 296 phased trios provides a high resolution map of genomic imprinting - bioRxiv, 2018        
-Jadhav B., Monajemi R., **Gagalova K.K**, Ho D., Draisma H.H.M, van de Wiel M.A., Franke L., Heijmans B.T., van Meurs J., Jansen R., GoNL Consortium, BIOS Consortium, t'Hoen P., Sharp A.J., Kiełbasa S.
+* RNA-Seq in 296 phased trios provides a high-resolution map of genomic imprinting - BMC Biol. 2019
+Jadhav B., Monajemi R., **Gagalova K.K**, Ho D., Draisma H.H.M., van de Wiel M.A., Franke L., Heijmans B.T., van Meurs J., Jansen R., GoNL Consortium; BIOS Consortium, 't Hoen P.A.C., Sharp A,J,, Kiełbasa S.M.
 
 * Skewed X-inactivation is common in the general female population - EJHGR, 2018        
 t'Hoen P., Shvetsova E., Sofronova A., Monajemi R., **Gagalova K.K.**, Draisma H., White S., Santen G., Chuva de Sousa Lopes S., Heijmans B.T., van Meurs J., Jansen R., Franke L., Kiełbasa S., Den Dunnen J.
