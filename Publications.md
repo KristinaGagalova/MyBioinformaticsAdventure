@@ -6,7 +6,7 @@ title: Publications
 * Induction of interferon-stimulated genes and cellular stress pathways by morpholinos in zebrafish - Dev Biol., 2019       
 Lai J.K.H., **Gagalova K.K.**, Kuenne C., El-Brolosy M.A., Stainier D.Y.R.
 
-Complete Chloroplast Genome Sequence of an Engelmann Spruce (Picea engelmannii, Genotype Se404-851) from Western Canada.
+* Complete Chloroplast Genome Sequence of an Engelmann Spruce (Picea engelmannii, Genotype Se404-851) from Western Canada.
 Lin D., Coombe L., Jackman S.D., **Gagalova K.K.**, Warren R.L., Hammond S.A., McDonald H., Kirk H., Pandoh P., Zhao Y., Moore R.A., Mungall A.J., Ritland C., Doerksen T., Jaquish B., Bousquet J., Jones S.J.M., Bohlmann J., Birol I.
 
 * Complete Chloroplast Genome Sequence of a White Spruce (Picea glauca, Genotype WS77111) from Eastern Canada.
